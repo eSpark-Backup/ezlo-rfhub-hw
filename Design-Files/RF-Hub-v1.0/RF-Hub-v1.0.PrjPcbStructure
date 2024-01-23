@@ -1,2 +1,5 @@
-Record=TopLevelDocument|FileName=CC1101.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=CC1101.SchDoc|FileName=Controller-Sheet.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=Top-Sheet.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Top-Sheet.SchDoc|Designator=U_CC1101|SchDesignator=U_CC1101|FileName=CC1101.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=CC1101.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top-Sheet.SchDoc|Designator=U_Controller-Sheet|SchDesignator=U_Controller-Sheet|FileName=Controller-Sheet.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Controller-Sheet.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top-Sheet.SchDoc|Designator=U_Power-Sheet|SchDesignator=U_Power-Sheet|FileName=Power-Sheet.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=Power-Sheet.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top-Sheet.SchDoc|Designator=U_Wide-Band|SchDesignator=U_Wide-Band|FileName=Wide-Band.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Wide-Band.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
